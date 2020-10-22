@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLSignaturePoc", "XMLSignaturePoc\XMLSignaturePoc.csproj", "{9AD7CC81-DB8E-4385-86EC-1727D83D3440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlSignaturePoc.Tests", "XmlSignaturePoc.Tests\XmlSignaturePoc.Tests.csproj", "{EC2154AA-F8A8-4BD3-B595-9806BAA104EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD7CC81-DB8E-4385-86EC-1727D83D3440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD7CC81-DB8E-4385-86EC-1727D83D3440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD7CC81-DB8E-4385-86EC-1727D83D3440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD7CC81-DB8E-4385-86EC-1727D83D3440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2154AA-F8A8-4BD3-B595-9806BAA104EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2154AA-F8A8-4BD3-B595-9806BAA104EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2154AA-F8A8-4BD3-B595-9806BAA104EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2154AA-F8A8-4BD3-B595-9806BAA104EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF045835-2DAE-46C4-893B-E62BC14ED309}
+	EndGlobalSection
+EndGlobal
